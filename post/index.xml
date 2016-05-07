@@ -6,8 +6,108 @@
     <description>Recent content in Posts on Yet Another Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 06 May 2016 19:47:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2016 09:24:09 +0900</lastBuildDate>
     <atom:link href="http://t-miyazaki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Markdown Sample</title>
+      <link>http://t-miyazaki.github.io/post/2016-05-07/</link>
+      <pubDate>Sat, 07 May 2016 09:24:09 +0900</pubDate>
+      
+      <guid>http://t-miyazaki.github.io/post/2016-05-07/</guid>
+      <description>
+
+&lt;p&gt;※ファイル形式：UTF-8 (BOM無し)、LF only&lt;/p&gt;
+
+&lt;p&gt;・空行のない行列&lt;/p&gt;
+
+&lt;p&gt;aaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccc&lt;/p&gt;
+
+&lt;p&gt;・空行のある行列&lt;/p&gt;
+
+&lt;p&gt;aaaaaaaaaaaaaaaaaaaa&lt;/p&gt;
+
+&lt;p&gt;bbbbbbbbbbbbbbbbbbbb&lt;/p&gt;
+
+&lt;p&gt;cccccccccccccccccccc&lt;/p&gt;
+
+&lt;h1 id=&#34;h1-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H1 Header ( # )&lt;/h1&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;h2-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H2 Header ( ## )&lt;/h2&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;h3-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H3 Header ( ### )&lt;/h3&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;h4-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H4 Header ( #### )&lt;/h4&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;h5 id=&#34;h5-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H5 Header ( ##### )&lt;/h5&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;h6 id=&#34;h6-header:c5504f36b6259e0450d5abbcd12605b6&#34;&gt;H6 Header ( ###### )&lt;/h6&gt;
+
+&lt;p&gt;text text text &amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes
+Blockquotes
+Blockquotes
+Blockquotes&lt;/p&gt;
+
+&lt;p&gt;Blockquotes
+only
+first
+line.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Blue&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Red&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Green&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Blue&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;・ソースコード&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var a = function(b, c) {
+    return b + c;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;・水平線 ( *** )&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;・URL&lt;/p&gt;
+
+&lt;p&gt;これは&lt;a href=&#34;https://www.google.co.jp/&#34;&gt;テストのリンク&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;・強調&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;emタグ&lt;/em&gt; (* で囲む)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;strongタグ&lt;/strong&gt; (**で囲む)&lt;/p&gt;
+
+&lt;p&gt;・インラインコード&lt;/p&gt;
+
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>test</title>
