@@ -1,4 +1,8 @@
 baseURL = 'https://mfcworks.github.io'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'mfcworks TechLog'
 theme = 'beautifulhugo'
+
+[Params.author]
+  name = "mfcworks"
+  website = "https://mfcworks.com"
